@@ -1,12 +1,22 @@
 [
     {
         "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "Greg",
+        "text": "I'm trying to learn React"
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Gregbot",
+        "text": "here to serve, master."
+    },
+    {
+        "id": 1470456700000,
+        "author": "Gregbot",
+        "text": "new comment for you, master."
+    },
+    {
+        "id": 1462288513665,
+        "author": "Gregbot",
+        "text": "psoting something"
     }
 ]
